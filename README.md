@@ -24,7 +24,7 @@ To set up and run this project locally:
 4. Start the server using `npm start`
 
 ## Author
-[Your Name]
+MichaelRumi
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the LICENSE file for details
